@@ -104,19 +104,6 @@ export const data = {
       title: 'Founder of Sidano Health',
     },
     {
-      image: anyaMarshall,
-      name: 'Anya Marshall',
-      pronouns: '(she/her)',
-      title:
-        'Key Technical Advisor — Software Engineering, Product Development and Data Engineering',
-    },
-    {
-      image: anshulaNathan,
-      name: 'Anshula Nathan',
-      pronouns: '(she/her)',
-      title: 'Director of Research and Health Informatics',
-    },
-    {
       image: ashAvilesBrizuela,
       name: 'Ash Aviles Brizuela',
       pronouns: '(they/them)',
@@ -129,22 +116,11 @@ export const data = {
       title: 'Key Technical Advisor - Software Development',
     },
     {
-      image: nandiAllman,
-      name: 'Nandi K. Allman',
-      pronouns: '(they/them)',
-      title: 'Director of Product and Community',
-    },
-    {
       image: ritChowdhury,
       name: 'Rit Chowdhury',
       pronouns: '(he/him)',
       title: 'Consulting AI/ML Engineer',
-    },
-    {
-      image: rylanRosario,
-      name: 'Rylan Rosario',
-      title: 'Chief Knowledge Officer & Head of Research',
-    },
+    }
   ],
 
   whatWeDoCard: [
