@@ -5,7 +5,6 @@ import { LinkedInCallback } from 'react-linkedin-login-oauth2';
 import App from './Components/App';
 import reportWebVitals from './reportWebVitals';
 import { GlobalStyle } from './utils/globalstyle';
-import './index.css';
 
 /*
  ********** NEVER DO THIS *************
